@@ -1,0 +1,19 @@
+{
+  "name": "kurstestowanie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node user.js",
+    "build": "tsc --project ./"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "ts-node": "^10.1.0"
+  }
+}
