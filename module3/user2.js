@@ -1,0 +1,1 @@
+const user = { firstName: 'Adam', lastName: 'Noname' }
