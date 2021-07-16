@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node user.js",
-    "build": "tsc --project ./"
+    "start": "node",
+    "build": "tsc --project ./",
+    "faker2": "node ./module3/user2.js"
 
   },
   "keywords": [],
